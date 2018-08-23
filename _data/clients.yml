@@ -1,5 +1,10 @@
 # For client quote regions.
-
+- project: omega-react-solr
+  name: John New
+  title: Uncertain
+  image: /assets/img/work/clients/lz-eo.jpg
+  quote: |
+    Not even 10 minutes in and I can already tell it's 1000 times better
 - project: duke_today
   name: Blyth Morrell
   title: Director of Strategic and Digital Communications at Duke University
